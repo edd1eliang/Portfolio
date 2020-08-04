@@ -10,19 +10,19 @@
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/edd1eliang",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashirshoaeb",
+      "url": "https://www.facebook.com/eddieliang0451",
       "style": "socialicons"
     },
     {
       "id": 2,
       "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashirshoaeb/",
+      "url": "https://www.instagram.com/eddleliang/",
       "style": "socialicons"
     },
     {
@@ -31,19 +31,13 @@
       "url": "https://www.linkedin.com/in/hashirshoaeb/",
       "style": "socialicons"
     },
-    {
-      "id": 4,
-      "image": "fa-twitter",
-      "url": "https://www.twitter.com/hashirshoaeb/",
-      "style": "socialicons"
-    }
   ],
   "aboutHeading": "About Me",
   "showInstaProfilePic": true,
-  "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashirshoaeb",
+  "instaLink": "https://www.instagram.com",
+  "instaUsername": "eddleliang",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "i love girls",
+  "aboutDescription": "",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "hashirshoaeb",
