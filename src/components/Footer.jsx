@@ -19,7 +19,10 @@ const Footer = () => {
       <p>
         <small className="text-muted">
           {" "}
+<<<<<<< HEAD
           @ 2020 Eddie Liang
+=======
+>>>>>>> e0eba7f8c984cbfd85fe49f61d5e0ee719080bb7
         </small>
       </p>
     </footer>

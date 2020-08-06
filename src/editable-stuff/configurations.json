@@ -5,7 +5,11 @@
   "FirstName": "Eddie",
   "MiddleName": "",
   "LastName": "Liang",
+<<<<<<< HEAD
   "devDesc": "Hi!               Welcome to my personal portfolio🔥               I enjoy coding 🖥,            taking photos 📸,           listening to music 🎧,            and reading!                             Site is currently under construction!", 
+=======
+  "devDesc": "Student at Western University",
+>>>>>>> e0eba7f8c984cbfd85fe49f61d5e0ee719080bb7
   "icons": [
     {
       "id": 0,
@@ -33,6 +37,7 @@
 
       
     },
+<<<<<<< HEAD
     {
       "id": 4,
       "image": "fa-spotify",
@@ -51,6 +56,18 @@
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "Edd1eliang",
+=======
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com",
+  "instaUsername": "eddleliang",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "I'm a rising sophomore at the University of Western Ontario studying business. I'm passionate in areas of Computer and Data Science, Web Development, and Finance. I'm currently learning new computer languages on my own to help diversify my skillset and pursue a career in Tech.",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "edd1eliang",
+>>>>>>> e0eba7f8c984cbfd85fe49f61d5e0ee719080bb7
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
   "showNavigationbar": true,
