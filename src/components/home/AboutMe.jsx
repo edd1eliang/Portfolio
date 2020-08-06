@@ -61,13 +61,9 @@ const AboutMe = () => {
               <p className="lead text-center">
                 <a
                   className="btn btn-outline-dark btn-lg"
-                  href={Pdf}
-                  target="_blank"
-                  rel="noreferrer noopener"
-                  role="button"
-                  aria-label="Resume/CV"
+                  href = "mailto: eddieliang@outlook.com"
                 >
-                  Resume
+                  Contact Me!
                 </a>
               </p>
             )}
