@@ -1,11 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-<<<<<<< HEAD
   "homepage": "http://edd1eliang.github.io/home",
-=======
-  "homepage": "https://edd1eliang.github.io/home",
->>>>>>> e0eba7f8c984cbfd85fe49f61d5e0ee719080bb7
   "version": "1.0.0",
   "private": true,
   "author": {
