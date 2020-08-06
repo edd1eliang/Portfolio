@@ -15,6 +15,7 @@ import Navbar from "./components/Navbar";
 import { Blog } from "./components/blog/Blog";
 import BlogPost from "./components/blog/BlogPost";
 
+
 const Home = () => {
   return (
     <Fragment>
