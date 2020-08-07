@@ -1,6 +1,6 @@
 {
-  "name": "developers-portfolio",
-  "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
+  "name": "eddie-portfolio",
+  "description": "Eddie Liang's Personal Portfolio",
   "homepage": "https://eddieliang.me",
   "version": "1.0.0",
   "private": true,
