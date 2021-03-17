@@ -5,7 +5,7 @@
   "FirstName": "Eddie",
   "MiddleName": "",
   "LastName": "Liang",
-  "devDesc": "Hi!           Welcome to my personal portfolio🔥               I enjoy coding 🖥,            taking photos 📸,           listening to music 🎧,            and reading!                             Site is currently under construction!", 
+  "devDesc": "Hi!           Welcome to my personal portfolio🔥               ", 
   "icons": [
     {
       "id": 0,
@@ -22,7 +22,7 @@
     {
       "id": 2,
       "image": "fa-instagram",
-      "url": "https://www.instagram.com/eddleliang/",
+      "url": "https://www.instagram.com/eddieliangg/",
       "style": "socialicons"
     },
     {
@@ -45,9 +45,9 @@
   "aboutHeading": "About Me",
   "showInstaProfilePic": true,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "eddleliang",
+  "instaUsername": "eddieliangg",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "I'm a rising sophomore at the University of Western Ontario studying Business. I'm passionate in areas of Computer Science, Data Science, and Finance. I'm currently learning new computer languages on my own to help diversify my skillset and to pursue a career in FinTech.",
+  "aboutDescription": "I'm currently a sophomore studying Finance at Western University. I was born in Toronto, Ontario and grew up in a small town of Bowmanville. I enjoy playing video games, playing basketball, and reading.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "Edd1eliang",
