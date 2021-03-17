@@ -58,7 +58,7 @@ const AboutMe = () => {
             <h1 className="display-4 mb-5 text-center">{aboutHeading}</h1>
             <p className="lead text-center">{aboutDescription}</p>
             {resumeURL && (
-              <p className="lead text-center">
+              <p className="lead text-center"> 
                 <a
                   className="btn btn-outline-dark btn-lg"
                   href = "mailto: eddieliang@outlook.com"
